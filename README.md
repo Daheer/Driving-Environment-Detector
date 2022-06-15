@@ -22,9 +22,9 @@ This program recognizes everyday road objects on a road scene. It is based on th
 <ul>
     <div> <li> <a href = 'https://www.python.org'> Python </a> </li>
         
-        python driving_environment_detector.py
+    python driving_environment_detector.py
         
-    </div>
+</div>
 </ul>
 
 # Usage
@@ -32,6 +32,12 @@ This program recognizes everyday road objects on a road scene. It is based on th
 > Simply place your video covering a road scene in the top directory. Run the installation code, sip
 some coffee or take a walk depending on the legth of your video :). When completed, the new video 
 can be found in out/output_video.mp4
+
+# Demo
+
+Sample Input               |  Sample Output
+:-------------------------:|:-------------------------:
+[](sample_input.png) |  [](sample_output.png)
 
 # References
 
