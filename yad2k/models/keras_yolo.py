@@ -8,8 +8,8 @@ from tensorflow.keras.layers import Lambda
 from tensorflow.keras.layers import concatenate
 from tensorflow.keras.models import Model
 
-from ..utils import compose
-from .keras_darknet19 import (DarknetConv2D, DarknetConv2D_BN_Leaky,
+from yad2k.utils.utils import compose
+from yad2k.models.keras_darknet19 import (DarknetConv2D, DarknetConv2D_BN_Leaky,
                               darknet_body)
 
 sys.path.append('..')
