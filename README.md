@@ -4,9 +4,18 @@ This program recognizes everyday road objects on a road scene. It is based on th
 
 ![Yolo v2 Darknet 19](images/yolo_v2_darknet19.png "Yolo v2 Darknet 19")
 
-Model Architecture Plot
+# Model Architecture Plot
 
 [Click to view full architecture](images/yolo_model_architecture.png)
 
-![Yolo Driving Environment Model Architecture](images/yolo_model_architecture.png "Yolo Driving Environment Model Architecture")
+![Yolo Driving Environment Model Architecture](images/yolo_model_architecture_short.png "Yolo Driving Environment Model Architecture")
+
+# Built Using
+
+- Python
+- Tensorflow
+- OpenCV
+- Others
+
+# Usage
 
