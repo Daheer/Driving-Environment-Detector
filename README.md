@@ -13,7 +13,7 @@ This program recognizes everyday road objects on a road scene. It is based on th
 
 # Model Plot
 
-![Yolo Driving Environment Model Architecture](images/yolo_model_architecture "Yolo Driving Environment Model Architecture")
+![Yolo Driving Environment Model Architecture](images/yolo_model_architecture.png "Yolo Driving Environment Model Architecture")
 
 # Usage
 
