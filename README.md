@@ -37,7 +37,7 @@ can be found in out/output_video.mp4
 
 Sample Input               |  Sample Output
 :-------------------------:|:-------------------------:
-[](sample_input.png) |  [](sample_output.png)
+![](images/sample_input.png) |  ![](images/sample_output.png)
 
 # References
 
