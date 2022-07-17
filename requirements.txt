@@ -2,7 +2,6 @@ fastai
 voila
 ipywidgets
 matplotlib
-os
 argparse
 pandas
 numpy
