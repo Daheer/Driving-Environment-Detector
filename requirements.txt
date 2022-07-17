@@ -7,4 +7,3 @@ pandas
 numpy
 scipy
 tensorflow
-PIL
