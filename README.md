@@ -27,6 +27,39 @@
 </div>
 </ul>
 
+# Project Structure
+
+```
+.
+├── README.md
+├── FiraMono-Medium.otf
+├── SIL Open Font License.txt
+├── Images
+│   ├── sample.png
+│   ├── yolo_model_architecture_short.png
+│   ├── yolo_model_architecture.png
+│   ├── yolo v2 darknet19.png
+│   ├── sample_input.png
+│   └── sample_input.png
+├── model data
+│   ├── variables
+│   │   ├── anchors.txt
+│   │   ├── coco_classes.txt
+│   │   ├── pascal_classes.txt
+│   │   ├── saved_model.pb
+│   │   └── yolo_anchors.txt
+│   └── yad2k
+│   │   ├── __pycache__
+│   │   ├── models
+│   │   └── utils
+│   │   │   └── util.py
+├── .gitattributes
+├── driving_environment_detector_voila.ipynb
+├── driving_environment_detector.ipynb
+├── driving_environment_detector.py
+└── requirements.txt
+```
+
 # Usage
 
 > Simply place your video covering a road scene in the top directory. Run the installation code, sip
