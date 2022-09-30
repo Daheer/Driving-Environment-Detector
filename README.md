@@ -80,6 +80,7 @@ Sample Input               |  Sample Output
 # Contact
 
 Dahir Ibrahim (Deedax Inc) - http://instagram.com/deedax_inc <br>
-Email - suhayrid6@gmail.com <br>
+Email - suhayrid@gmail.com <br>
 YouTube - https://www.youtube.com/channel/UCqvDiAJr2gRREn2tVtXFhvQ <br>
-Project Link - https://github.com/Daheer/Driving-Environment-Detector
+Project Link - https://github.com/Daheer/Driving-Environment-Detector <br>
+Twitter - https://twitter.com/DeedaxInc
